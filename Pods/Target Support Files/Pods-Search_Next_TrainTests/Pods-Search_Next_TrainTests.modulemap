@@ -1,0 +1,6 @@
+framework module Pods_Search_Next_TrainTests {
+  umbrella header "Pods-Search_Next_TrainTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,20 @@
+PODS:
+  - CalculateCalendarLogic (0.3.0)
+  - ISTimeline (1.0.0)
+
+DEPENDENCIES:
+  - CalculateCalendarLogic
+  - ISTimeline
+
+SPEC REPOS:
+  trunk:
+    - CalculateCalendarLogic
+    - ISTimeline
+
+SPEC CHECKSUMS:
+  CalculateCalendarLogic: cd5b2c706a8628bb924c5ee9d05c4f61bdbaf390
+  ISTimeline: 1b5c01c76724b3ba3b41a07e508a271e93cd82ad
+
+PODFILE CHECKSUM: bf11706e0d90770467a50215edba8e35e6631b46
+
+COCOAPODS: 1.9.1
